@@ -39,7 +39,7 @@ Pandas, Seaborn, Matplotlib, Python, PostgreSQL, WordCloud
 
 "Hawaiian Vacation Weather Analysis" : Analyze weather patterns and precipitation in order to predict the ideal time for a vacation.	https://github.com/matmcreative/sqlalchemy_challenge.git	
 SQLAlchemy, Flask, Matplotlib, Python, Pandas, Numpy
-<img src="https://github.com/matmcreative/Hawaiian_Vacation_SQLAlchemy/blob/master/Images/TempNormEaDay.png?raw=true" width 40% align = center>
+<img src="https://github.com/matmcreative/Hawaiian_Vacation_SQLAlchemy/blob/master/Images/TempNormEaDay.png?raw=true" width=40% align=center>
 
 "Belly Button Biodiversity" : Build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
 https://github.com/matmcreative/Belly_Button_Diversity_Plotly.git
