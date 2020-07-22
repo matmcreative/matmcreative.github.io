@@ -42,3 +42,8 @@ SQLAlchemy, Flask, Matplotlib, Python, Pandas, Numpy
 "Employee Analysis" : Research employee data and identify trends within the corporation from the 1980s and 1990s.	
 https://github.com/matmcreative/SQL_challenge.git	
 SQLAlchemy, Matplotlib, Pandas
+
+"Belly Button Biodiversity" : Build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
+https://github.com/matmcreative/Belly_Button_Diversity_Plotly.git
+
+<img src="https://github.com/matmcreative/Belly_Button_Diversity_Plotly/blob/master/Images/bbb_dashboard.png?raw=true" width=250px align = right>
