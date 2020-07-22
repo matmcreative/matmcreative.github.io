@@ -1,5 +1,7 @@
 # Lisa Reed-Preston | Portfolio
+
 <img src="84353488_10157585605635041_8542602484735016960_o.jpg" width=350px align=right>
+
 ## Table of Contents
 * [Contact](#Contact)
 * [Technologies](#Technologies)
