@@ -32,8 +32,13 @@ Databases:
 * PostgreSQL
 
 # Projects
-"Data as Art" : Research and download large music dataset. Determine the most common words within the titles. Create a visual representation of the results. The final production table uses a 10,000 song subset of the Million Song Database.	https://github.com/matmcreative/spotify_data_as_art.git	Pandas, Seaborn, Matplotlib, Python, PostgreSQL, WordCloud
+"Data as Art" : Research and download large music dataset. Determine the most common words within the titles. Create a visual representation of the results. The final production table uses a 10,000 song subset of the Million Song Database.	
+https://github.com/matmcreative/spotify_data_as_art.git	
+Pandas, Seaborn, Matplotlib, Python, PostgreSQL, WordCloud
 
-"Hawaiian Vacation Weather Analysis" : Analyze weather patterns and precipitation in order to predict the ideal time for a vacation.	https://github.com/matmcreative/sqlalchemy_challenge.git	SQLAlchemy, Flask, Matplotlib, Python, Pandas, Numpy
+"Hawaiian Vacation Weather Analysis" : Analyze weather patterns and precipitation in order to predict the ideal time for a vacation.	https://github.com/matmcreative/sqlalchemy_challenge.git	
+SQLAlchemy, Flask, Matplotlib, Python, Pandas, Numpy
 
-"Employee Analysis" : Research employee data and identify trends within the corporation from the 1980s and 1990s.	https://github.com/matmcreative/SQL_challenge.git	SQLAlchemy, Matplotlib, Pandas
+"Employee Analysis" : Research employee data and identify trends within the corporation from the 1980s and 1990s.	
+https://github.com/matmcreative/SQL_challenge.git	
+SQLAlchemy, Matplotlib, Pandas
