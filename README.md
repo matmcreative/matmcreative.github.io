@@ -45,5 +45,5 @@ SQLAlchemy, Matplotlib, Pandas
 
 "Belly Button Biodiversity" : Build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
 https://github.com/matmcreative/Belly_Button_Diversity_Plotly.git
-
-<img src="https://github.com/matmcreative/Belly_Button_Diversity_Plotly/blob/master/Images/bbb_dashboard.png?raw=true" width=250px align = right>
+D3, Plotly, JSON, Python
+<img src="https://github.com/matmcreative/Belly_Button_Diversity_Plotly/blob/master/Images/bbb_dashboard.png?raw=true" width=90% align = center>
